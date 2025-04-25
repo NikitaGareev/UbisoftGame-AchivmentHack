@@ -1,2 +1,5 @@
-[Instruction.txt](https://github.com/user-attachments/files/19907789/Instruction.txt)
-[Инструкция.txt](https://github.com/user-attachments/files/19907793/default.txt)
+EN: I am not responsible if in the future Jubsoft starts blocking users who use this method and any others. I am not responsible if in the future Jubsoft starts blocking users who use this method and any others. Do everything at your own risk.
+RU: Я не несу ответственность если в будущем компания юбисофт начнёт блокировать пользователей которые пользуются данным способом и любыми другими. Делайте все на свой страх и риск.
+
+Instruction: Delete everything in brackets and the brackets themselves.
+Интсрукция: Удалите все, что заключено в скобки, и сами скобки.
