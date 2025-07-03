@@ -2,6 +2,8 @@ EN: I am not responsible if in the future Ubisoft starts blocking users who use 
 
 Instruction: Delete everything in brackets and the brackets themselves.
 
+If someone has a game not bought on steam, then use the ID from this txt file, just rename the id of the spool file in the list from the txt file
+
 1) Press the Win + R key combination and type %appdata%
 2) In the window that opens, navigate from the Roaming folder to the AppData folder (the level above)
 3) Open the Local folder
@@ -15,6 +17,8 @@ Instruction: Delete everything in brackets and the brackets themselves.
 RU: Я не несу ответственность если в будущем компания Юбисофт начнёт блокировать пользователей которые пользуются данным способом и любыми другими. Делайте все на свой страх и риск.
 
 Интсрукция: Удалите все, что заключено в скобки, и сами скобки.
+
+Если у кого то игра куплена не в стиме, то используйте айди из этого txt файла, просто переименуйте айди spool файла в списке из файла txt
 
 1) Нажмите сочетание клавиш Win + R и введите %appdata%
 2) В открывшемся окне перейдите из папки Roaming в папку AppData (на уровень выше)
