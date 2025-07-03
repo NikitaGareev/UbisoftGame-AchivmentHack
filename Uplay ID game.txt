@@ -1,0 +1,518 @@
+UPLAY_GAME_ID
+List of GAME ID's in Uplay by Ubisoft
+
+Assassin's Creed Franchise
+4 - Assassin's Creed II
+26 - Assassin's Creed Brotherhood
+40 - Assassin's Creed® Revelations
+54 - Assassin's Creed® III
+82 - Assassin's Creed™
+103 - Assassin's Creed® III (RU)
+104 - Assassin's Creed® III (JPN)
+105 - Assassin's Creed® III (CZ)
+273 - Assassin’s Creed® IV Black Flag™
+437 - Assassin’s Creed® IV Black Flag™ (Steam Version)
+441 - Assassin’s Creed® IV Black Flag™ (RU)
+442 - Assassin’s Creed® IV Black Flag™ (Asia)
+625 - Assassin's Creed® Liberation HD
+632 - Assassin's Creed® Liberation HD (Uplay version/Australia)
+664 - Assassin's Creed® Freedom Cry
+720 - Assassin's Creed® Unity
+857 - Assassin's Creed® Unity (Steam)
+895 - Assassin's Creed® Rogue
+934 - Assassin's Creed® Rogue (Steam Version)
+944 - Assassin's Creed Unity (RU)
+945 - Assassin's Creed Unity (RU) (Steam Version)
+1081 - Assassin's Creed® Shadows (Steam Version)
+1186 - Assassin's Creed Rogue (RU)
+1187 - Assassin's Creed Rogue (RU) (Steam Version)
+1651 - Assassin's Creed® Chronicles China
+1661 - Assassin's Creed Rogue Asia
+1662 - Assassin's Creed Rogue Asia (Steam)
+1841 - Assassin's Creed® Chronicles China (Steam Version)
+1847 - Assassin's Creed® Chronicles India
+1848 - Assassin's Creed® Chronicles Russia
+1849 - Assassin's Creed® Chronicles India (Steam)
+1850 - Assassin's Creed® Chronicles Russia (Steam)
+1875 - Assassin's Creed® Syndicate
+1955 - Assassin's Creed® Syndicate (RU)
+1956 - Assassin's Creed® Syndicate Asia
+1957 - Assassin's Creed® Syndicate (Steam Version)
+1958 - Assassin's Creed® Syndicate (RU) (Steam Version)
+3539 - Assassin's Creed® Origins
+4919 - Assassin's Creed II (Steam Version)
+4923 - Assassin's Creed Origins (Steam Version)
+5059 - Assassin's Creed® Odyssey
+5092 - Assassin's Creed® Odyssey (Steam Version)
+5100 - Discovery Tour by Assassin's Creed: Ancient Egypt
+5183 - Assassin's Creed® III - Remastered
+5184 - Assassin's Creed® III - Remastered (Steam Version)
+5404 - Discovery Tour: Ancient Greece by Ubisoft
+6100 - Assassin's Creed® Mirage
+6101 - Assassin's Creed® Mirage (Steam)
+7013 - Assassin's Creed® Valhalla (Steam)
+8006 - Assassin's Creed® Shadows
+11373 - Discovery Tour: Ancient Egypt by Assassin’s Creed (Steam)
+13504 - Assassin's Creed® Valhalla
+19000 - Discovery Tour: Viking Age by Ubisoft
+
+FAR CRY Franchise
+46 - Far Cry® 3
+84 - Far Cry
+85 - Far Cry 2
+205 - Far Cry® 3 Blood Dragon
+420 - Far Cry® 4
+856 - Far Cry® 4 (Steam version/Australia)
+969 - Far Cry 4 RU
+1803 - Far Cry® 5
+4311 - Far Cry® 5 (Steam Version)
+2010 - Far Cry® Primal
+2029 - Far Cry® Primal (Steam version/Australia)
+5210 - Far Cry® New Dawn
+5211 - Far Cry® New Dawn (Steam Version)
+5266 - Far Cry® 6
+920 - Far Cry® 6 (Steam Version)
+17772 - Far Cry® 6 Episode 1 Insanity DLC
+17773 - Far Cry® 6 Episode 2 Pagan: Control DLC
+17774 - Far Cry® 6 Episode 3 Joseph: Collapse DLC
+19028 - Far Cry® 6 Offline Mode "DLC"
+
+Watch_Dogs Franchise
+274 - Watch_Dogs
+541 - Watch_Dogs (Steam)
+543 - Watch_Dogs (RU)
+545 - Watch Dogs Asia
+741 - Watch_Dogs (Steam)
+828 - Watch Dogs Asia (Steam)
+1428 - Watch_Dogs Complete Edition
+2688 - WATCH_DOGS® 2
+3353 - Watch Dogs: Legion
+3619 - WATCH_DOGS® 2 (Steam)
+7017 - Watch Dogs: Legion (Steam)
+
+Tom Clancy's Franchise
+2 - Tom Clancy's Splinter Cell Conviction
+53 - Tom Clancy's Ghost Recon Future Soldier
+83 - Tom Clancy's EndWar
+88 - Tom Clancy's Rainbow Six® Vegas
+91 - Tom Clancy's Splinter Cell Blacklist
+95 - Tom Clancy's Splinter Cell Chaos Theory™
+108 - Tom Clancy's Rainbow Six® Vegas 2
+109 - Tom Clancy's Splinter Cell
+110 - Tom Clancy's Splinter Cell Double Age
+358 - Tom Clancy's Rainbow Six® Lockdown
+449 - Tom Clancy's Splinter Cell Blacklist (Steam)
+568 - Tom Clancy's The Division™
+635 - Tom Clancy's Rainbow Six® Siege
+1771 - Tom Clancy's Ghost Recon® Wildlands
+2970 - Tom Clancy's Ghost Recon® Wildlands (Open Beta)
+1835 - Tom Clancy's The Division™ (RU)
+1842 - Tom Clancy's Rainbow Six® Siege (RU)
+1843 - Tom Clancy's Rainbow Six® Siege (Steam)
+2036 - Tom Clancy's The Division Beta
+2235 - Tom Clancy's Rainbow Six® 3 Gold
+2297 - Tom Clancy's Ghost Recon
+2298 - Tom Clancy's Rainbow Six®
+3502 - Tom Clancy's The Division PTS
+3559 - Tom Clancy's Ghost Recon Wildlands (Steam)
+4865 - Tom Clancy's Rainbow Six® Siege Test Server
+4932 - Tom Clancy's The Division® 2
+4984 - Tom Clancy's Ghost Recon Wildlands Open Beta
+5159 - Tom Clancy's The Division 2 - PPS
+5271 - Tom Clancy's Rainbow Six® Extraction
+10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)
+11903 - Tom Clancy's Ghost Recon® Breakpoint
+12737 - Tom Clancy's Ghost Recon® Breakpoint (Uplay Open + Closed Beta)
+
+Prince of Persia Franchise
+11 - Prince of Persia® The Forgotten Sands™
+111 - Prince of Persia: The Sands of Time™
+113 - Prince of Persia: The Two Thrones™
+121 - Prince of Persia: Warrior Within
+277 - Prince of Persia (2008)
+6145 - Prince of Persia: The Lost Crown
+
+Anno Franchise
+22 - Anno 2070
+71 - Anno 2070 (Steam)
+89 - Anno 1404
+678 - ANNO 2070® Complete Edition
+680 - Anno 2070 RUS
+1253 - Anno 2205
+2990 - Anno 1602
+4553 - Anno 1800 (Uplay)
+4554 - Anno 1800 (Uplay+Steam)
+13800 - Anno 1800 - Open Beta
+16232 - Anno 1404 - History Edition
+16234 - Anno 1503 - History Edition
+16236 - Anno 1602 - History Edition
+16238 - Anno 1701 - History Edition
+
+The Crew Franchise
+413 - The Crew (Worldwide)
+507 - The Crew (Russian)
+665 - The Crew 2 (Steam Version)
+750 - The Crew (Beta)
+2855 - The Crew 2 (Uplay Connect)
+5037 - The Crew 2
+
+The Settlers Franchise
+8 - The Settlers 7: Paths to a Kingdom
+18 - The Settlers Online
+3037 - The Settlers - New Allies
+11662 - The Settlers - History Edition
+11783 - The Settlers 2: Veni, Vidi, Vici - History Edition
+11784 - The Settlers 3 - History Edition
+11785 - The Settlers 4 - History Edition
+11786 - The Settlers 5: Heritage of Kings - History Edition
+11787 - The Settlers 6 - History Edition
+11788 - The Settlers 7: Paths to a Kingdom - History Edition
+
+Rayman Franchise
+80 - Rayman Origins
+360 - Rayman® 3 Hoodlum Havoc®
+361 - Rayman® 2 The Great Escape
+362 - Rayman Raving Rabbids™
+410 - Rayman® Legends
+411 - Rayman Legends Demo
+509 - Rayman Chinese Special Edition
+2968 - Rayman Forever
+5850 - Rayman Jungle Run
+5860 - Rayman Fiesta Run
+61578 - Rabbids: Party of Legends
+
+Might and Magic Franchise
+44 - Might & Magic Heroes VI
+64 - Might & Magic® VI-Pack
+87 - Heroes of Might and Magic V
+348 - Might and Magic VII: For Blood and Honor
+349 - Might & Magic® VIII: Day of the Destroyer
+350 - Might & Magic® IX
+352 - Heroes of Might & Magic II Gold Edition
+353 - Heroes® of Might & Magic® III Complete Edition
+354 - Heroes® of Might & Magic® IV Complete Edition
+401 - Might & Magic X Legacy (Uplay)
+402 - Might & Magic X Legacy (Steam)
+403 - Might & Magic X Legacy (Uplay+Steam)
+1176 - Might & Magic Heroes VII
+1177 - Might & Magic Heroes VII (Steam)
+5042 - Might & Magic Heroes VI
+5613 - Might & Magic - Chess Royale
+
+Trials Franchise
+78 - Trials Evolution: Gold Edition
+297 - Trials Fusion
+318 - Trials Fusion (Steam)
+834 - Trials Fusion Demo (Steam)
+1275 - Trials Fusion Multiplayer Beta
+3301 - Trials of the Blood Dragon (Steam)
+3600 - Trials Rising
+3601 - Trials Rising
+5233 - Trials Rising - Open Beta
+5454 - Trials® Rising Demo
+
+UNO
+3352 - UNO (Uplay)
+3360 - UNO (Uplay+Steam)
+3361 - UNO Demo
+3765 - UNO - Rayman Theme Cards
+3766 - UNO - Just Dance Theme Cards
+3776 - UNO - Winter Theme Cards
+16383 - UNO - Flip Theme Cards
+17860 - UNO - Fenyx's Quest Theme Cards
+17942 - UNO - 50th Anniversary Theme Cards
+59689 - UNO - The Call of Yara Theme Cards
+60710 - UNO - AC Valhalla Theme Cards
+
+Other
+3 - Silent Hunter®: Battle of the Atlantic Gold Edition
+5 - Trial Rising Demo
+13 - Driver: San Francisco
+20 - Shaun White Snowboarding
+30 - From Dust
+68 - Silent Hunter 5
+90 - World In Conflict
+93 - I am Alive
+232 - Beyond Good and Evil™
+233 - Cold Fear™
+270 - Brothers in Arms: Road to Hill 30
+271 - Brothers in Arms: Earned in Blood
+272 - Brothers in Arms: Hell's Highway
+292 - Silent Hunter III
+293 - Silent Hunter 4 Gold Edition
+422 - Flashback
+423 - Flashback Demo
+424 - Driver San Francisco 大概 (Steam)
+540 - ShootMania Storm Elite Demo
+569 - For Honor
+609 - Child of Light
+611 - Child of Light (Steam)
+659 - Valiant Hearts (Uplay)
+661 - Valiant Hearts (Steam)
+688 - Lock On
+693 - Petz Horsez 2
+698 - Silent Hunter 4 Wolves of the Pacific (Uplay)
+699 - Silent Hunter 4 Wolves of the Pacific: U-Boat Missions (Uplay)
+801 - Child of Light Demo
+825 - Champions of Anteria
+1653 - ZOMBI (Uplay)
+1713 - Skull and Bones
+1832 - Zombi (Uplay+Steam)
+2070 - Trackmania Turbo
+2170 - Champions of Anteria (Steam)
+2988 - Silent Hunter 2
+2992 - Panzer General 3D Assault
+2993 - Panzer General 2
+3044 - POD Gold
+3050 - Imperialism
+3051 - Imperialism 2
+3052 - Speed Busters: American Highways
+3053 - Warlords Battlecry
+3054 - Warlords Battlecry 2
+3088 - South Park™: The Fractured But Whole™
+3097 - Champions of Anteria Demo
+3098 - Champions of Anteria Demo (Steam)
+3130 - Just Dance 2017
+3131 - Just Dance 2017 (Steam)
+3279 - Steep
+3280 - Steep (Steam)
+3445 - Steep Open Beta
+3458 - For Honor
+3584 - South Park™ - The Stick of Truth™
+3774 - Monopoly Plus
+3775 - Monopoly Plus (Steam)
+4472 - Steep Open Beta (Steam)
+4740 - Avatar: Frontier of Pandora (Uplay)
+4502 - South Park: The Fractured But Whole (Steam)
+5277 - Starlink: Battle For Atlas
+5405 - Immortals Fenyx Rising
+5408 - Rabbits Coding!
+5487 - Riders Republic
+5595 - Trackmania
+5705 - Scott Pilgrim vs the World: The Game
+5726 - Immortal Fenyx Rising™ Demo
+5870 - Hungry Shark World
+6116 - The Last Friend
+6150 - Skull and Bones Open Beta Closed Beta
+9662 - Valiant Hearts: Coming Home
+9797 - Ode
+10871 - Transference
+10885 - Steep Road To The Olympics Beta
+10886 - Steep Road To The Olympics Beta (Steam)
+11899 - Roller Champions
+11957 - Hyper Scape
+15657 - XDefiant Closed Beta
+17903 - Star Wars: Outlaws
+17905 - Monopoly Madness
+60951 - Project U
+61432 - Fell Seal: Arbiter's Mark
+61499 - Evan's Remains
+61503 - Astrologaster
+61515 - Lake
+61517 - A Normal Lost Phone
+62326 - Immortals Fenyx Rising (Steam)
+64181 - Star Wars: Outlaws (Steam)
+
+To be verified
+276 - Prince of Persia
+2052 - Anno 2205 (unknown Version)
+
+Additional IDs
+
+2,0029,GAME,Uplay,Splinter Cell Conviction
+3,0028,GAME,Uplay,Silent Hunter 5: Battle of the Atlantic
+4,0034,GAME,Uplay,Assassin's Creed II
+8,0041,GAME,Uplay,The Settlers 7: Paths to a Kingdom
+11,0033,GAME,Uplay,Prince of Persia The Forgotten Sands
+12,0002,GAME,Steam,R.U.S.E.™
+13,0033,GAME,Uplay,Driver: San Francisco
+16,0006,GAME,Uplay,Settlers 7 Beta
+17,0012,GAME,Uplay,Settlers 7 Demo
+20,0030,GAME,Uplay,Shaun White Skateboarding
+21,0036,GAME,Uplay,H.A.W.X 2
+22,0031,GAME,Uplay,Anno 2070
+25,0020,GAME,Uplay,Might & Magic Heroes VI Beta
+26,0044,GAME,Uplay,Assassin's Creed Brotherhood
+27,0012,GAME,Uplay,Settlers 7 Balance
+30,0035,GAME,Uplay,From Dust
+33,0034,GAME,Uplay,The Adventures of Tintin: The Game
+37,0014,GAME,Steam,Call of Juarez The Cartel
+40,0036,GAME,Uplay,Assassin's Creed Revelations
+44,0040,GAME,Uplay,Might & Magic Heroes VI
+45,0008,GAME,Uplay,Anno 2070 Beta
+46,0044,GAME,Uplay,Far Cry® 3
+48,0037,GAME,Uplay,Might & Magic Heroes VI
+52,0021,GAME,Uplay,Party Example
+53,0017,GAME,Uplay,Ghost Recon Future Soldier
+54,0036,GAME,Uplay,Assassin's Creed III
+55,0008,GAME,Steam,Driver: San Francisco
+56,0007,GAME,Steam,Assassin's Creed II
+57,0008,GAME,Steam,Assassin's Creed Brotherhood
+58,0008,GAME,Steam,Splinter Cell Conviction
+59,0005,GAME,Steam,Assassin's Creed Revelations
+60,0008,GAME,Steam,Might & Magic Heroes VI
+61,0008,GAME,Steam,Settlers 7
+62,0007,GAME,Steam,H.A.W.X 2
+63,0009,GAME,Steam,Prince of Persia The Forgotten Sands
+64,0008,GAME,Steam,From Dust
+65,0005,GAME,Steam,Ghost Recon Future Soldier
+68,0009,GAME,Steam,Silent Hunter 5
+69,0007,GAME,Uplay,World In Conflict
+71,0008,GAME,Steam,Anno 2070
+78,0022,GAME,Uplay,Trials Evolution Gold Edition
+80,0007,GAME,Uplay,Rayman Origins
+82,0005,GAME,Uplay,Assassin's Creed
+83,0004,GAME,Uplay,Tom Clancy's EndWar
+84,0006,GAME,Uplay,Far Cry
+85,0004,GAME,Uplay,Far Cry 2
+86,0006,GAME,Uplay,H.A.W.X
+87,0003,GAME,Uplay,Heroes of Might and Magic V
+89,0005,GAME,Uplay,Anno 1404
+90,0004,GAME,Uplay,World In Conflict
+93,0004,GAME,Uplay,I am Alive
+95,0004,GAME,Uplay,Splinter Cell Chaos Theory
+96,0003,DLC,Uplay,Splinter Cell Conviction - Deniable Ops: Insurgency
+97,0003,DLC,Uplay,Assassin's Creed Revelations - The Lost Archive
+101,0013,GAME,Steam,Far Cry® 3
+102,0009,GAME,Steam,Assassin's Creed III
+103,0010,GAME,Uplay,Assassin's Creed III - RUS
+104,0007,GAME,Uplay,Assassin's Creed III - JPN
+105,0010,GAME,Uplay,Assassin's Creed III - CZ
+108,0003,GAME,Uplay,Tom Clancy's Rainbow 6 VEGAS 2
+109,0002,GAME,Uplay,Tom Clancy's Splinter Cell
+110,0003,GAME,Uplay,Tom Clancy's Splinter Cell Double Agent
+111,0002,GAME,Uplay,Prince of Persia: The Sands of Time
+112,0002,GAME,Uplay,Call of Juarez 2: Bound in blood
+113,0004,GAME,Uplay,Prince of Persia: The Two Thrones
+114,0002,GAME,Uplay,Ghost Recon Advanced Warfighter 2
+115,0003,DLC,Uplay,Ghost Recon Future Soldier - Arctic Strike DLC Pack
+116,0001,DLC,Uplay,Assassin's Creed III - The Hidden Secrets Pack
+117,0001,DLC,Uplay,Assassin's Creed III - The Battle Hardened Pack
+118,0001,DLC,Uplay,Assassin's Creed III - The Tyranny of King Washington Episode 1: The Infamy
+119,0002,DLC,Uplay,Assassin's Creed III - The Tyranny of King Washington Episode 2: The Betrayal
+121,0002,GAME,Uplay,Prince of Persia: Warrior Within
+122,0002,DLC,Uplay,H.A.W.X 2 - All-in-One DLC Pack
+123,0009,GAME,Steam,Batman: Arkham City GOTY
+124,0005,GAME,Steam,Lego Harry Potter
+125,0004,GAME,Steam,LEGO Harry Potter: Years 5-7
+126,0003,GAME,ManiaPlanet,Shootmania Storm
+127,0031,GAME,ManiaPlanet,Trackmania Canyon
+128,0005,DLC,Uplay,Assassin's Creed III - Benedict Arnold
+131,0005,GAME,Uplay,Hoyle Card Games 2012
+132,0004,GAME,Steam,Crusader Kings II
+133,0004,GAME,Steam,War of the Roses
+134,0008,GAME,Steam,Batman: Arkham Asylum GOTY Edition
+136,0005,GAME,Origin,Need for Speed™ Most Wanted
+137,0004,GAME,Origin,Medal of Honor™ Warfighter
+138,0005,GAME,Uplay,To The Moon
+139,0002,GAME,Steam,Assassin's Creed III
+140,0014,GAME,Uplay,Trials Evolution Gold Edition MP Beta
+141,0004,GAME,Steam,The Lord of the Rings: War in the North
+142,0007,GAME,Steam,LEGO Batman: The Videogame
+143,0006,GAME,Steam,LEGO Batman 2
+144,0002,GAME,Steam,LEGO The Lord of the Rings
+145,0001,GAME,Steam,Scribblenauts Unlimited
+146,0004,GAME,Uplay,Heroes of Might and Magic V: Hammers of Fate
+147,0003,GAME,Uplay,Heroes of Might and Magic V: Tribes of the East
+148,0004,GAME,Uplay,Hoyle Casino Games 2012
+200,0006,GAME,Steam,Wargame: European Escalation
+201,0004,GAME,Steam,Endless Space Emperor Edition
+203,0002,GAME,Steam,Magicka
+204,0001,DLC,Uplay,Ghost Recon Future Soldier - Raven Strike DLC
+208,0006,GAME,Origin,Dead Space™
+209,0005,GAME,Origin,Dead Space™ 2
+210,0007,GAME,Origin,The Sims™ 3 Deluxe Edition
+212,0001,GAME,Steam,Hitman: Absolution
+213,0001,GAME,Steam,Just Cause 2
+214,0001,GAME,Steam,Deus Ex: Human Revolution
+215,0005,GAME,Uplay,Hoyle Puzzle and Board Games 2012
+216,0004,GAME,Steam,Chivalry: Medieval Warfare
+217,0001,DLC,Uplay,Far Cry® 3 - High Tides
+218,0006,GAME,Origin,Mass Effect™ 3 N7 Digital Deluxe Edition
+219,0004,GAME,Origin,Crysis® 2 Maximum Edition
+220,0004,GAME,Steam,Sleeping Dogs™
+221,0003,GAME,Steam,Air Conflicts: Pacific Carriers
+222,0004,GAME,Steam,Galaxy on Fire 2™ Full HD
+223,0004,GAME,Steam,Shoot Many Robots
+224,0002,GAME,Origin,FIFA 13
+225,0006,GAME,Origin,Battlefield 3™ Premium Edition
+227,0002,GAME,Uplay,The Testament of Sherlock Holmes
+228,0003,GAME,Origin,Kingdoms of Amalur: Reckoning™
+229,0004,GAME,Origin,Dead Space™ 3
+230,0004,GAME,Origin,Crysis® 3
+231,0001,GAME,Origin,FIFA Manager 13
+232,0006,GAME,Uplay,Beyond Good and Evil™
+233,0001,GAME,Uplay,Cold Fear™
+234,0001,GAME,Steam,Hitman: Absolution Pro Edition
+235,0002,GAME,Steam,Sleeping Dogs™ Limited Edition
+236,0002,GAME,Steam,Sleeping Dogs™ Low Violence Edition
+237,0001,GAME,Steam,Endless Space Admiral Edition
+238,0002,GAME,Steam,Painkiller Hell & Damnation
+239,0003,GAME,Steam,The Book of Unwritten Tales
+241,0002,GAME,Steam,King's Bounty: Warriors of the North
+242,0002,GAME,Steam,Men of War: Assault Squad
+245,0002,GAME,Uplay,Crysis Maximum
+246,0002,GAME,Steam,Orcs Must Die! 2
+247,0002,GAME,Steam,Rochard
+248,0002,GAME,Steam,Alan Wake
+252,0004,GAME,Uplay,DRIVER: PARALLEL LINES
+253,0001,GAME,Steam,The Walking Dead
+254,0002,GAME,Uplay,Faces of War (tm) tile shown as Dead Space 3
+255,0001,GAME,Uplay,Crysis 3
+256,0002,GAME,Origin,Dead Space 3
+257,0001,DLC,Uplay,Ghost Recon Future Soldier - Khyber Strike DLC Pack
+258,0005,GAME,Origin,SimCity™
+259,0004,GAME,Origin,SimCity™ Limited Edition
+260,0002,GAME,Steam,Tomb Raider
+261,0002,GAME,Steam,Tomb Raider: Survival Edition
+262,0021,GAME,Steam,Trials Evolution Gold Edition
+263,0003,GAME,Steam,Painkiller Hell & Damnation Collector's Edition
+264,0003,GAME,Steam,Alan Wake Collector's Edition
+265,0002,GAME,Steam,The Book of Unwritten Tales Deluxe Edition
+266,0002,GAME,Uplay,Blazing Angels
+267,0003,GAME,Uplay,Blazing Angels 2: Secret Missions of WWII
+268,0002,GAME,Steam,Rocksmith™
+270,0003,GAME,Uplay,Brothers in Arms: Road to Hill 30
+271,0004,GAME,Uplay,Brothers in Arms: Earned in Blood
+272,0002,GAME,Uplay,Brothers in Arms: Hell's Highway
+275,0001,GAME,ManiaPlanet,Trackmania Stadium
+276,0003,GAME,Uplay,Prince of Persia
+277,0002,GAME,Uplay,Prince of Persia
+278,0005,GAME,Steam,Orcs Must Die! 2 - Fire & Water DLC
+279,0002,GAME,Steam,Orcs Must Die! 2 - Family Ties DLC
+280,0002,GAME,Steam,Orcs Must Die! 2 - Are We There Yeti? DLC
+281,0003,GAME,Uplay,Arma: Cold War Assault
+283,0003,GAME,Uplay,ArmA 2 Operation Arrowhead
+284,0002,DLC,Uplay,ArmA 2 - Private Military Company
+288,0001,DLC,Uplay,ArmA 2: British Armed Forces DLC
+289,0003,GAME,Uplay,ArmA 2
+290,0002,GAME,Uplay,Settlers 5: Heritage of Kings
+291,0002,GAME,Uplay,Settlers 6 Gold Edition
+292,0002,GAME,Uplay,Silent Hunter III
+293,0003,GAME,Uplay,Silent Hunter 4 Gold Edition
+294,0002,GAME,Uplay,Carrier Command: Gaea Mission
+295,0002,GAME,Steam,IL-2 Sturmovik - Cliffs of Dover
+296,0001,GAME,Steam,Might & Magic Clash of Heroes
+303,0001,GAME,Uplay,Europa Universalis III Chronicles
+304,0002,GAME,Uplay,Victoria II
+305,0001,GAME,Steam,Warlock: Master of the Arcane
+306,0001,GAME,Steam,Defenders of Ardania
+307,0003,GAME,Steam,SpellForce 2 - Faith in Destiny
+308,0001,GAME,Steam,SpellForce 2 - Faith in Destiny Digital Deluxe
+309,0001,GAME,Steam,Alan Wake's American Nightmare
+310,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles
+311,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles Collectors Edition
+312,0002,GAME,Steam,Bloody Good Time
+313,0001,GAME,Steam,Babel Rising
+323,0002,GAME,Origin,Mirror's Edge
+324,0001,GAME,Origin,Need for Speed The Run
+325,0003,GAME,Origin,Plants VS Zombies
+328,0002,GAME,Origin,The Sims Medieval
+329,0002,GAME,Origin,Tiger Woods PGA Tour 12: The Masters
+330,0001,GAME,Steam,Bastion
+331,0001,GAME,Steam,F.E.A.R.
+332,0001,GAME,Steam,F.E.A.R. 2: Project Origin
+333,0001,GAME,Steam,F.E.A.R. 2: Reborn DLC
+334,0001,GAME,Steam,F.E.A.R. 3
+335,0001,GAME,Steam,Deus Ex: Human Revolution™ - Augmented Edition
+340,0002,GAME,Uplay,Zeit2
