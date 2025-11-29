@@ -138,11 +138,11 @@ Anno Franchise
 89 - Anno 1404
 678 - ANNO 2070® Complete Edition
 680 - Anno 2070 RUS
-1253 - Anno 2205
+6245 - Anno 117: Pax Romana (Steam) 1253 - Anno 2205
 2990 - Anno 1602
 4553 - Anno 1800 (Uplay)
 4554 - Anno 1800 (Uplay+Steam)
-13800 - Anno 1800 - Open Beta
+6245 - Anno 117: Pax Romana (Steam Demo) 13800 - Anno 1800 - Open Beta
 16232 - Anno 1404 - History Edition
 16234 - Anno 1503 - History Edition
 16236 - Anno 1602 - History Edition
@@ -288,6 +288,7 @@ Other
 5405 - Immortals Fenyx Rising
 5408 - Rabbits Coding!
 5487 - Riders Republic
+5480 - Riders Republic (Steam)
 5595 - Trackmania
 5705 - Scott Pilgrim vs the World: The Game
 5726 - Immortal Fenyx Rising™ Demo
@@ -515,4 +516,5 @@ Additional IDs
 333,0001,GAME,Steam,F.E.A.R. 2: Reborn DLC
 334,0001,GAME,Steam,F.E.A.R. 3
 335,0001,GAME,Steam,Deus Ex: Human Revolution™ - Augmented Edition
+
 340,0002,GAME,Uplay,Zeit2
