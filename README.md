@@ -1,4 +1,4 @@
-[Uplay ID game.txt](https://github.com/user-attachments/files/21033155/Uplay.ID.game.txt)EN: I am not responsible if in the future Ubisoft starts blocking users who use this method and any others. I am not responsible if in the future Jubsoft starts blocking users who use this method and any others. Do everything at your own risk.
+EN: I am not responsible if in the future Ubisoft starts blocking users who use this method and any others. I am not responsible if in the future Jubsoft starts blocking users who use this method and any others. Do everything at your own risk.
 
 Instruction: Delete everything in brackets and the brackets themselves.
 
