@@ -109,6 +109,7 @@ Tom Clancy's Franchise
 1835 - Tom Clancy's The Division™ (RU)
 1842 - Tom Clancy's Rainbow Six® Siege (RU)
 1843 - Tom Clancy's Rainbow Six® Siege (Steam)
+1844 - Tom Clancy's Rainbow Six® Siege (Steam, RU/CIS)
 2036 - Tom Clancy's The Division Beta
 2235 - Tom Clancy's Rainbow Six® 3 Gold
 2297 - Tom Clancy's Ghost Recon
@@ -518,3 +519,4 @@ Additional IDs
 335,0001,GAME,Steam,Deus Ex: Human Revolution™ - Augmented Edition
 
 340,0002,GAME,Uplay,Zeit2
+
